@@ -204,3 +204,5 @@ You can extend this project by:
 ## Author
 
 This project is prepared for Azure Terraform learning and infrastructure automation practice.
+my terraform my love
+
