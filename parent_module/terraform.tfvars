@@ -3,10 +3,7 @@ rgdetails = {
     name     = "rg_sunil"
     location = "Central India"
   }
-  rg2={
-    name     = "rg_sunil2"
-    location = "Central India"
-  }
+ 
 }
 
 vnetdetails = {
