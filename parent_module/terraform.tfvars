@@ -3,6 +3,7 @@ rgdetails = {
     name     = "rg_sunil"
     location = "Central India"
   }
+
 }
 
 vnetdetails = {
